@@ -132,5 +132,5 @@ MAILERS = {
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
-    "https://job-tracker-frontend-o1ed.onrender.com/"
+    "https://job-tracker-frontend-o1ed.onrender.com"
 ]
